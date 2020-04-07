@@ -19,7 +19,6 @@ if (!class_exists('WooMoMo')) :
     class WooMoMo
     {
         protected $Option_Page;
-        protected $Woo_MoMo_License;
 
         /**
          * WooMoMo constructor.
